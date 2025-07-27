@@ -1,0 +1,15 @@
+fastapi 
+sqlalchemy 
+bcrypt 
+python-jose 
+pymysql 
+celery 
+redis
+uvicorn
+pydantic
+passlib[bcrypt]
+python-dotenv
+pydantic-settings
+redis
+requests
+pydantic[email]
